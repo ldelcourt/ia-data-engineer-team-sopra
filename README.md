@@ -1,7 +1,5 @@
 # Dossier d'Initialisation de Projet : Agentic Data Engineer Team
 
-## Résumé Exécutif
-
 Ce document présente le projet « Agentic Data Engineer Team », une solution innovante visant à révolutionner la gestion des données en entreprise par l'intégration d'une équipe d'agents d'intelligence artificielle. Notre objectif est d'augmenter significativement les capacités des ingénieurs data et de démocratiser l'accès aux données pour les profils non techniques. En automatisant les tâches répétitives de création de pipelines, d'exécution de requêtes SQL (Text-to-SQL) et de visualisation de données, nous visons à accélérer le _time-to-market_, améliorer la qualité des données et optimiser les processus. Le projet se distingue par son approche collaborative homme-machine, où l'IA assiste et propose, tandis que l'humain conserve le contrôle final et la capacité d'intervention. Cette solution s'inscrit parfaitement dans l'évolution du marché de la Data, offrant un avantage concurrentiel majeur aux entreprises.
 
 ## 1. Idée de Projet : L'Équipe d'IA Data Engineers
@@ -61,7 +59,7 @@ Le marché des outils d'automatisation de données et d'ingénierie data assist�
 
 ### 3.2. Proposition de Valeur Unique (USP) et Avantages Concurrentiels
 
-Notre projet « Agentic Data Engineer Team - IMOTEP » se distingue par :
+Notre projet « Agentic Data Engineer Team » se distingue par :
 
 - **Flexibilité de l'Intervention Humaine** : Contrairement à des solutions plus automatisées, nous mettons l'accent sur une **intégration profonde de l'humain dans la boucle**, permettant une granularité d'intervention à chaque étape du processus. Cela garantit un contrôle maximal et une adaptabilité aux cas d'usage complexes où l'IA seule pourrait échouer.
 - **Approche Holistique de l'Ingénierie Data** : Notre solution ne se limite pas à un aspect (ex: ETL ou SQL) mais propose une suite complète de capacités allant de l'ingestion à la documentation, en passant par l'optimisation et l'intégration de données non structurées, offrant une plateforme unifiée pour les besoins en ingénierie data.
@@ -74,7 +72,7 @@ Notre projet « Agentic Data Engineer Team - IMOTEP » se distingue par :
 
 L'architecture de l'application IA repose sur un modèle multi-agents, orchestré par un **Agent Planificateur**. Cet agent sera responsable de l'interprétation des requêtes utilisateur, de la création d'un plan d'action et de l'invocation des agents spécialisés nécessaires à l'exécution des tâches.
 
-![[2025 Q4 - Architecture V1 concours IA.png]]
+![Architecture Data Engineer Team](./Architecture_V1.png)
 
 ### 4.2. Composants Clés
 
